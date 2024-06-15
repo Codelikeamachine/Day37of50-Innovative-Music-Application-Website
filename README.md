@@ -7,11 +7,12 @@ Project Overview:
 This project, part of the 50-day coding challenge, focuses on creating a Music Application. The aim is to design an engaging and functional music player interface that allows users to control music playback. The application displays the current song, artist, and album cover art, along with playback controls.
 
 JOIN ME HERE:
-Live Demo: 
 
-LinkedIn: 
+Live Demo: https://codelikeamachine.github.io/Day37of50-Innovative-Music-Application-Website/
 
-Instagram: 
+LinkedIn: http://www.linkedin.com/in/armaansaraswat
+
+Instagram: https://www.instagram.com/saraswat_armaan
 
 Project Highlights:
 
